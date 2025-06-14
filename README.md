@@ -85,6 +85,8 @@ The dataset, sourced from Kaggle (https://www.kaggle.com/datasets/utkarshx27/ele
   - Year
   - Make/Model
 
+![image](https://github.com/user-attachments/assets/d7c69a31-3b19-4629-8859-be85f2d6e9bf)
+
 ---
 
 ## 🔍 Key Insights
